@@ -1,1 +1,1 @@
-My first readme
+the main dir of the project 
